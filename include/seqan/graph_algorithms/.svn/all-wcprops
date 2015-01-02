@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/seqan/seqan/!svn/ver/1876/branches/master/core/include/seqan/graph_algorithms
+END
+graph_algorithm_lis_his.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/seqan/seqan/!svn/ver/1336/branches/master/core/include/seqan/graph_algorithms/graph_algorithm_lis_his.h
+END
+graph_algorithm_heap_tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/seqan/seqan/!svn/ver/1328/branches/master/core/include/seqan/graph_algorithms/graph_algorithm_heap_tree.h
+END
+INFO
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/graph_algorithms/INFO
+END
+graph_algorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/seqan/seqan/!svn/ver/1876/branches/master/core/include/seqan/graph_algorithms/graph_algorithm.h
+END
+graph_algorithm_hmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/seqan/seqan/!svn/ver/1334/branches/master/core/include/seqan/graph_algorithms/graph_algorithm_hmm.h
+END

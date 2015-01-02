@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/seqan/seqan/!svn/ver/4420/branches/master/core/include/seqan/parallel
+END
+parallel_splitting.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/seqan/seqan/!svn/ver/1205/branches/master/core/include/seqan/parallel/parallel_splitting.h
+END
+parallel_tags.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/seqan/seqan/!svn/ver/1205/branches/master/core/include/seqan/parallel/parallel_tags.h
+END
+parallel_macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/seqan/seqan/!svn/ver/1502/branches/master/core/include/seqan/parallel/parallel_macros.h
+END
+parallel_atomic_misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/seqan/seqan/!svn/ver/1205/branches/master/core/include/seqan/parallel/parallel_atomic_misc.h
+END
+parallel_atomic_primitives.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/seqan/seqan/!svn/ver/4420/branches/master/core/include/seqan/parallel/parallel_atomic_primitives.h
+END
+INFO
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/seqan/seqan/!svn/ver/1179/branches/master/core/include/seqan/parallel/INFO
+END
+parallel_algorithms.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/seqan/seqan/!svn/ver/1234/branches/master/core/include/seqan/parallel/parallel_algorithms.h
+END

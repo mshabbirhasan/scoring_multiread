@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/seqan/seqan/!svn/ver/2251/branches/master/core/include/seqan/system
+END
+system_sema.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/system/system_sema.h
+END
+file_sync.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/seqan/seqan/!svn/ver/2251/branches/master/core/include/seqan/system/file_sync.h
+END
+system_forwards.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/system/system_forwards.h
+END
+system_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/system/system_thread.h
+END
+file_async.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/system/file_async.h
+END
+system_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/system/system_base.h
+END
+file_directory.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/system/file_directory.h
+END
+INFO
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/system/INFO
+END
+system_event.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/system/system_event.h
+END
+file_forwards.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/system/file_forwards.h
+END
+system_mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/system/system_mutex.h
+END

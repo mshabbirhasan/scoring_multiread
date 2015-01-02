@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/seqan/seqan/!svn/ver/1534/branches/master/core/include/seqan/modifier
+END
+modifier_reverse.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/seqan/seqan/!svn/ver/1437/branches/master/core/include/seqan/modifier/modifier_reverse.h
+END
+modifier_shortcuts.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/seqan/seqan/!svn/ver/1437/branches/master/core/include/seqan/modifier/modifier_shortcuts.h
+END
+modifier_alphabet.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/seqan/seqan/!svn/ver/1225/branches/master/core/include/seqan/modifier/modifier_alphabet.h
+END
+modifier_functors.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/seqan/seqan/!svn/ver/1501/branches/master/core/include/seqan/modifier/modifier_functors.h
+END
+modifier_alphabet_expansion.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/seqan/seqan/!svn/ver/1278/branches/master/core/include/seqan/modifier/modifier_alphabet_expansion.h
+END
+modifier_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/seqan/seqan/!svn/ver/1501/branches/master/core/include/seqan/modifier/modifier_string.h
+END
+INFO
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/modifier/INFO
+END
+modifier_iterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/seqan/seqan/!svn/ver/1287/branches/master/core/include/seqan/modifier/modifier_iterator.h
+END
+modifier_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/seqan/seqan/!svn/ver/1534/branches/master/core/include/seqan/modifier/modifier_view.h
+END

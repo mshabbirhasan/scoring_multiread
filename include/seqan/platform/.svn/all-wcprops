@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/seqan/seqan/!svn/ver/3287/branches/master/core/include/seqan/platform
+END
+platform_nvcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/seqan/seqan/!svn/ver/3287/branches/master/core/include/seqan/platform/platform_nvcc.h
+END
+platform_windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/seqan/seqan/!svn/ver/3287/branches/master/core/include/seqan/platform/platform_windows.h
+END
+windows_stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/seqan/seqan/!svn/ver/3287/branches/master/core/include/seqan/platform/windows_stdint.h
+END
+platform_gcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/seqan/seqan/!svn/ver/3287/branches/master/core/include/seqan/platform/platform_gcc.h
+END
+platform_solaris.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/seqan/seqan/!svn/ver/3287/branches/master/core/include/seqan/platform/platform_solaris.h
+END
+platform_icc.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/seqan/seqan/!svn/ver/3287/branches/master/core/include/seqan/platform/platform_icc.h
+END
+platform_pgi.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/seqan/seqan/!svn/ver/3287/branches/master/core/include/seqan/platform/platform_pgi.h
+END
+INFO
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/platform/INFO
+END
+platform_mingw.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/seqan/seqan/!svn/ver/3287/branches/master/core/include/seqan/platform/platform_mingw.h
+END

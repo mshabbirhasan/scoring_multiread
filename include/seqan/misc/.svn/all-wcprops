@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/seqan/seqan/!svn/ver/2040/branches/master/core/include/seqan/misc
+END
+misc_name_store_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/seqan/seqan/!svn/ver/1312/branches/master/core/include/seqan/misc/misc_name_store_cache.h
+END
+misc_cmdparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/misc/misc_cmdparser.h
+END
+misc_bit_twiddling.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/seqan/seqan/!svn/ver/1503/branches/master/core/include/seqan/misc/misc_bit_twiddling.h
+END
+misc_union_find.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/seqan/seqan/!svn/ver/1230/branches/master/core/include/seqan/misc/misc_union_find.h
+END
+misc_memset.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/seqan/seqan/!svn/ver/1228/branches/master/core/include/seqan/misc/misc_memset.h
+END
+INFO
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/seqan/seqan/!svn/ver/869/branches/master/core/include/seqan/misc/INFO
+END
+misc_set.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/seqan/seqan/!svn/ver/914/branches/master/core/include/seqan/misc/misc_set.h
+END
+misc_dequeue.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/seqan/seqan/!svn/ver/1310/branches/master/core/include/seqan/misc/misc_dequeue.h
+END
+edit_environment.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/seqan/seqan/!svn/ver/1350/branches/master/core/include/seqan/misc/edit_environment.h
+END
+misc_svg.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/misc/misc_svg.h
+END
+priority_type_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/seqan/seqan/!svn/ver/1310/branches/master/core/include/seqan/misc/priority_type_base.h
+END
+misc_accumulators.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/seqan/seqan/!svn/ver/1306/branches/master/core/include/seqan/misc/misc_accumulators.h
+END
+misc_parsing.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/misc/misc_parsing.h
+END
+misc_interval_tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/seqan/seqan/!svn/ver/2040/branches/master/core/include/seqan/misc/misc_interval_tree.h
+END
+priority_type_heap.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/seqan/seqan/!svn/ver/1310/branches/master/core/include/seqan/misc/priority_type_heap.h
+END
+misc_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/seqan/seqan/!svn/ver/921/branches/master/core/include/seqan/misc/misc_base.h
+END
+misc_terminal.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/seqan/seqan/!svn/ver/1343/branches/master/core/include/seqan/misc/misc_terminal.h
+END
+misc_sse2.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/misc/misc_sse2.h
+END
+misc_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/misc/misc_map.h
+END

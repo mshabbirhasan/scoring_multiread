@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/seqan/seqan/!svn/ver/1394/branches/master/core/include/seqan/seeds
+END
+banded_chain_alignment_scout.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/seqan/seqan/!svn/ver/1151/branches/master/core/include/seqan/seeds/banded_chain_alignment_scout.h
+END
+seeds_seed_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/seqan/seqan/!svn/ver/1394/branches/master/core/include/seqan/seeds/seeds_seed_base.h
+END
+seeds_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/seeds/seeds_base.h
+END
+banded_chain_alignment_profile.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/seqan/seqan/!svn/ver/1125/branches/master/core/include/seqan/seeds/banded_chain_alignment_profile.h
+END
+banded_chain_alignment_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/seqan/seqan/!svn/ver/1125/branches/master/core/include/seqan/seeds/banded_chain_alignment_impl.h
+END
+seeds_extension.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/seqan/seqan/!svn/ver/1281/branches/master/core/include/seqan/seeds/seeds_extension.h
+END
+seeds_seed_diagonal.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/seqan/seqan/!svn/ver/1281/branches/master/core/include/seqan/seeds/seeds_seed_diagonal.h
+END
+seeds_global_chaining_gusfield.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/seeds/seeds_global_chaining_gusfield.h
+END
+INFO
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/seqan/seqan/!svn/ver/869/branches/master/core/include/seqan/seeds/INFO
+END
+seeds_seed_set_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/seqan/seqan/!svn/ver/1281/branches/master/core/include/seqan/seeds/seeds_seed_set_base.h
+END
+banded_chain_alignment_traceback.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/seqan/seqan/!svn/ver/1125/branches/master/core/include/seqan/seeds/banded_chain_alignment_traceback.h
+END
+seeds_seed_simple.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/seqan/seqan/!svn/ver/1281/branches/master/core/include/seqan/seeds/seeds_seed_simple.h
+END
+seeds_global_chaining_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/seeds/seeds_global_chaining_base.h
+END
+banded_chain_alignment.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/seqan/seqan/!svn/ver/1334/branches/master/core/include/seqan/seeds/banded_chain_alignment.h
+END
+seeds_seed_set_scored.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/seeds/seeds_seed_set_scored.h
+END
+seeds_seed_chained.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/seqan/seqan/!svn/ver/1334/branches/master/core/include/seqan/seeds/seeds_seed_chained.h
+END
+seeds_global_chaining.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/seqan/seqan/!svn/ver/1281/branches/master/core/include/seqan/seeds/seeds_global_chaining.h
+END
+seeds_combination.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/seqan/seqan/!svn/ver/1281/branches/master/core/include/seqan/seeds/seeds_combination.h
+END
+basic_iter_indirect.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/seqan/seqan/!svn/ver/1281/branches/master/core/include/seqan/seeds/basic_iter_indirect.h
+END
+seeds_seed_set_unordered.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/seqan/seqan/!svn/ver/1145/branches/master/core/include/seqan/seeds/seeds_seed_set_unordered.h
+END
+seeds_seed_set_non_scored.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/seqan/seqan/!svn/ver/794/branches/master/core/include/seqan/seeds/seeds_seed_set_non_scored.h
+END
